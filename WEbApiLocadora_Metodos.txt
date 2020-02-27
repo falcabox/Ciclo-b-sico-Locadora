@@ -1,0 +1,25 @@
+ClienteController
+
+Métodos:
+GetClientes 	: Visualizar lista de clientes
+GetCliente	: Visualizar um cliente específico
+PutCliente	: Inserir um cliente
+PostCliente	: Atualizar dados de um cliente
+
+
+FilmeController
+
+Métodos:
+GetFilmes	   : Visualizar lista de Filmes
+GetFilme	   : Visualizar um filme específico
+PutFilme   	   : Inserir um filme, desde que o Título já não exista
+PostFilme	   : Atualizar dados de um filme
+PostDevolucaoFilme : Realizar devolucao do filme e informar se data da devolução ultrapassou data prevista.
+
+
+LocacaoController
+
+Métodos:
+GetLocacoes	: Visualizar lista de locações
+GetLocacao	: Visualizar uma locação específica
+PutLocaçao	: Inserir uma locação
